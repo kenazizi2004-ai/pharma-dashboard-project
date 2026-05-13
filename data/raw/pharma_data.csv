@@ -1,1 +1,41 @@
-
+drug_name,trial_phase,success_rate,patients_enrolled,side_effect_rate,company,region
+DrugA,Phase I,72.5,450,12.3,Pfizer,NA
+DrugB,Phase II,81.2,1200,8.5,Roche,EU
+DrugC,Phase III,65.8,3000,15.2,Moderna,Asia
+DrugD,Approved,92.1,5000,5.1,Novartis,NA
+DrugA,Phase II,74.0,980,11.1,Pfizer,EU
+DrugB,Phase III,79.4,2500,10.4,Roche,Asia
+DrugC,Phase I,61.7,600,18.7,Moderna,NA
+DrugD,Approved,95.5,6200,4.2,Novartis,EU
+DrugA,Phase III,83.2,3100,9.6,Pfizer,Asia
+DrugB,Phase I,69.3,550,14.0,Roche,NA
+DrugC,Phase II,70.8,1400,13.4,Moderna,EU
+DrugD,Approved,96.0,7100,3.8,Novartis,Asia
+DrugA,Phase I,68.4,480,16.2,Pfizer,NA
+DrugB,Phase II,77.5,1300,9.1,Roche,EU
+DrugC,Phase III,66.9,2800,17.5,Moderna,Asia
+DrugD,Approved,93.8,5400,4.9,Novartis,NA
+DrugA,Phase II,75.6,1100,10.7,Pfizer,EU
+DrugB,Phase III,82.0,3200,8.9,Roche,Asia
+DrugC,Phase I,63.1,700,19.3,Moderna,NA
+DrugD,Approved,97.2,8000,3.1,Novartis,EU
+DrugA,Phase III,84.5,3500,8.3,Pfizer,Asia
+DrugB,Phase I,71.0,620,13.7,Roche,NA
+DrugC,Phase II,69.7,1500,14.6,Moderna,EU
+DrugD,Approved,94.9,6000,4.4,Novartis,Asia
+DrugA,Phase I,73.8,520,12.8,Pfizer,NA
+DrugB,Phase II,80.6,1450,9.4,Roche,EU
+DrugC,Phase III,67.5,2950,16.1,Moderna,Asia
+DrugD,Approved,95.8,6700,3.9,Novartis,NA
+DrugA,Phase II,76.2,1180,10.3,Pfizer,EU
+DrugB,Phase III,83.4,3400,8.1,Roche,Asia
+DrugC,Phase I,64.0,720,18.9,Moderna,NA
+DrugD,Approved,96.5,7500,3.5,Novartis,EU
+DrugA,Phase III,85.1,3700,7.9,Pfizer,Asia
+DrugB,Phase I,72.4,640,12.9,Roche,NA
+DrugC,Phase II,71.2,1550,13.8,Moderna,EU
+DrugD,Approved,97.0,8200,3.0,Novartis,Asia
+DrugA,Phase I,74.6,560,11.7,Pfizer,NA
+DrugB,Phase II,81.8,1500,8.7,Roche,EU
+DrugC,Phase III,68.3,3100,15.5,Moderna,Asia
+DrugD,Approved,95.2,6900,4.1,Novartis,NA
