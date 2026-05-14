@@ -1,38 +1,42 @@
-# Pharma Dataset Dashboard
+📊 Pharma Dataset Dashboard
+Overview
 
-## Overview
-This project analyzes pharmaceutical clinical trial data using Python and Power BI.
+This project analyzes pharmaceutical clinical trial data using Python and interactive dashboard tools.
 
-The dashboard explores:
-- Drug success rates
-- Side effect analysis
-- Trial phase performance
-- Company-level metrics
-- Risk score calculations
+It focuses on evaluating:
 
-## Tech Stack
-- Python
-- Pandas
-- Matplotlib
-- Power BI
+Drug success rates
+Clinical trial phases
+Side effect impact
+Company performance
+Risk scoring metrics
 
-## Features
-- Data cleaning pipeline
-- Feature engineering
-- Interactive visualizations
-- KPI tracking
-- Risk analytics dashboard
+Tech Stack
+Python (Pandas, Matplotlib)
+Google Sheets / Power BI (visualization)
+Data analysis & feature engineering
 
-## Project Structure
+Features
+Data cleaning and preprocessing
+Feature engineering (risk scoring system)
+Exploratory data analysis
+Interactive dashboard visualizations
+KPI-based performance tracking
 
-```bash
+Key Insights
+Success rates vary across pharmaceutical companies
+Earlier trial phases generally show higher risk scores
+Higher side effect rates tend to reduce success probability
+Company performance differs significantly across trials
+
+Dashboard Summary
+Built an interactive pharmaceutical analytics dashboard
+Compared multiple companies across trial phases
+Evaluated risk using side effect and success rate metrics
+Identified performance differences across drugs and regions
+
+Project Structure
 pharma-dashboard-project/
-```
 
-## Key Insights
-- Success rates vary significantly across companies
-- Certain trial phases exhibit higher risk scores
-- Side effect rates correlate with reduced success probability
-
-## Author
+Author
 Ken Azizi
