@@ -1,1 +1,29 @@
-
+drug_name,trial_phase,success_rate,patients_enrolled,side_effect_rate,company,region,trial_cost_million_usd,approval_probability,risk_score,risk_category,successful_trial
+DrugA,Phase I,72.5,450,12.3,Pfizer,North America,120,0.62,0.169655172413793,Medium,0
+DrugB,Phase II,81.2,1200,8.5,Roche,Europe,210,0.74,0.104679802955665,Medium,1
+DrugC,Phase III,65.8,3000,15.2,Moderna,Asia,340,0.55,0.231003039513678,High,0
+DrugD,Approved,92.1,5000,5.1,Novartis,North America,450,0.91,0.0553745928338762,Low,1
+DrugA,Phase II,74.0,980,11.1,Pfizer,Europe,180,0.68,0.15,Medium,0
+DrugB,Phase III,79.4,2500,10.4,Roche,Asia,320,0.79,0.130982367758186,Medium,1
+DrugC,Phase I,61.7,600,18.7,Moderna,North America,95,0.42,0.303079416531605,High,0
+DrugD,Approved,95.5,6200,4.2,Novartis,Europe,500,0.93,0.043979057591623,Low,1
+DrugA,Phase III,83.2,3100,9.6,Pfizer,Asia,360,0.82,0.115384615384615,Medium,1
+DrugB,Phase I,69.3,550,14.0,Roche,North America,110,0.58,0.202020202020202,High,0
+DrugC,Phase II,70.8,1400,13.4,Moderna,Europe,200,0.66,0.189265536723164,Medium,0
+DrugD,Approved,96.0,7100,3.8,Novartis,Asia,520,0.95,0.0395833333333333,Low,1
+DrugA,Phase I,68.4,480,16.2,Pfizer,North America,100,0.52,0.236842105263158,High,0
+DrugB,Phase II,77.5,1300,9.1,Roche,Europe,190,0.71,0.11741935483871,Medium,1
+DrugC,Phase III,66.9,2800,17.5,Moderna,Asia,330,0.57,0.261584454409567,High,0
+DrugD,Approved,93.8,5400,4.9,Novartis,North America,480,0.89,0.0522388059701493,Low,1
+DrugA,Phase II,75.6,1100,10.7,Pfizer,Europe,175,0.69,0.141534391534392,Medium,1
+DrugB,Phase III,82.0,3200,8.9,Roche,Asia,370,0.83,0.108536585365854,Medium,1
+DrugC,Phase I,63.1,700,19.3,Moderna,North America,105,0.46,0.305863708399366,High,0
+DrugD,Approved,97.2,8000,3.1,Novartis,Europe,550,0.96,0.0318930041152263,Low,1
+DrugA,Phase III,84.5,3500,8.3,Pfizer,Asia,390,0.84,0.0982248520710059,Low,1
+DrugB,Phase I,71.0,620,13.7,Roche,North America,115,0.59,0.192957746478873,Medium,0
+DrugC,Phase II,69.7,1500,14.6,Moderna,Europe,210,0.64,0.209469153515065,High,0
+DrugD,Approved,94.9,6000,4.4,Novartis,Asia,510,0.92,0.0463645943097998,Low,1
+DrugA,Phase I,73.8,520,12.8,Pfizer,North America,108,0.61,0.173441734417344,Medium,0
+DrugB,Phase II,80.6,1450,9.4,Roche,Europe,205,0.73,0.116625310173697,Medium,1
+DrugC,Phase III,67.5,2950,16.1,Moderna,Asia,345,0.56,0.238518518518519,High,0
+DrugD,Approved,95.8,6700,3.9,Novartis,North America,495,0.94,0.0407098121085595,Low,1
